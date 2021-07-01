@@ -7,6 +7,21 @@
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
+### Project Ideas
+- [ ] Finish Recurse Center project for pair programming test
+- [ ] Build React/Redux app from _Learning React_?
+- [ ] Create a Node project (simple server? LinkedIn Learning course?)
+- [ ] Build Vue/Supabase project inspired by FreeCodeCamp demo
+- [ ] Build Svelte project inspired by FreeCodeCamp demo
+- [ ] Finish frontendmentor.io card challenge
+- [ ] Create portfolio
+- [ ] Finish authentication for Okta blog project
+- [ ] Finish for-loop demo animation
+- [ ] Try out WebXR or other AR/VR library
+- [ ] Try out Solidity and build DAPP
+- [ ] Get back into Leetcode practice
+- [ ] Build demos related to blog
+
 <details>
 <summary>
     <strong>See original instructions</strong> and info on #100DaysOfCode
