@@ -1,10 +1,11 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Leilani Leach
 
-The log of my #100DaysOfCode challenge. Started on [July 17, Monday, 2017].
+The log of my #100DaysOfCode challenge. Started on Tues June 29, 2021.
 
 ## Log
 
 ### R1D1 
-Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com
+[Vanilla JavaScript version of Space Invaders](https://github.com/LeilaniL/space-invaders) for Recurse Center challenge. Realizing I haven't tried to make a game in forever and I of course underestimated the complexity. Had to think about how to structure and position grid of enemies, and aiming for more JavaScript vs. CSS animations.
 
 ### R1D2
+[Vanilla JavaScript version of Space Invaders](https://github.com/LeilaniL/space-invaders) for Recurse Center challenge. Replaced images w/ emojis since I need to stick to 1 file. Got rows of enemies to move to side correctly but bug has them appearing only to move down -- yet when breakpoints added you can see they _are_ still moving to the side.
