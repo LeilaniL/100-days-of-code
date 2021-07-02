@@ -9,3 +9,6 @@ The log of my #100DaysOfCode challenge. Started on Tues June 29, 2021.
 
 ### R1D2
 [Vanilla JavaScript version of Space Invaders](https://github.com/LeilaniL/space-invaders) for Recurse Center challenge. Replaced images w/ emojis since I need to stick to 1 file. Got rows of enemies to move to side correctly but bug has them appearing only to move down -- yet when breakpoints added you can see they _are_ still moving to the side.
+
+### R1D3
+Fixed bug + finished required features for mini space invaders game. Had fun working with keydown events for moving the character + figuring out how to style the form input to not look like a form input and behave properly: autofocus attribute, value = emoji, matched color of text to background so the caret is still there but you don't see it at least. [Vanilla JavaScript version of Space Invaders](https://github.com/LeilaniL/space-invaders) for Recurse Center challenge.
