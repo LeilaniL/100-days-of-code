@@ -12,3 +12,6 @@ The log of my #100DaysOfCode challenge. Started on Tues June 29, 2021.
 
 ### R1D3
 Fixed bug + finished required features for mini space invaders game. Had fun working with keydown events for moving the character + figuring out how to style the form input to not look like a form input and behave properly: autofocus attribute, value = emoji, matched color of text to background so the caret is still there but you don't see it at least. [Vanilla JavaScript version of Space Invaders](https://github.com/LeilaniL/space-invaders) for Recurse Center challenge.
+
+### R1D4
+Fine-tuned some styling and things like making sure the player icon doesn't move offscreen. Found out different browsers set different padding/margin/border defaults. [Vanilla JavaScript version of Space Invaders](https://github.com/LeilaniL/space-invaders) for Recurse Center challenge.
