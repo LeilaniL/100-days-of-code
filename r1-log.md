@@ -15,3 +15,6 @@ Fixed bug + finished required features for mini space invaders game. Had fun wor
 
 ### R1D4
 Fine-tuned some styling and things like making sure the player icon doesn't move offscreen. Found out different browsers set different padding/margin/border defaults. [Vanilla JavaScript version of Space Invaders](https://github.com/LeilaniL/space-invaders) for Recurse Center challenge.
+
+### R1D5
+Completed [CSS Grid Garden](https://cssgridgarden.com/) and started CodePen layout challenge to practice some more: [https://codepen.io/LeilaniL/pen/zYwvjOg?editors=1100](https://codepen.io/LeilaniL/pen/zYwvjOg?editors=1100)
