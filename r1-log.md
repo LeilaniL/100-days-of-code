@@ -18,3 +18,6 @@ Fine-tuned some styling and things like making sure the player icon doesn't move
 
 ### R1D5
 Completed [CSS Grid Garden](https://cssgridgarden.com/) and started CodePen layout challenge to practice some more: [https://codepen.io/LeilaniL/pen/zYwvjOg?editors=1100](https://codepen.io/LeilaniL/pen/zYwvjOg?editors=1100)
+
+### R1D6
+Used CSS Grid for menu layout challenge: [https://github.com/LeilaniL/grid-practice](https://github.com/LeilaniL/grid-practice) It still needs some work but more for image sizing. Reading up on CSS attributes that take comma-separated values, nth-child selectors (there are even and odd keywords!), etc. because I was hoping to make a flag for the 4th. Found cool examples: [Vexillum](https://github.com/talgautb/vexillum) | [Pixelastic Flags of the World](https://github.com/pixelastic/css-flags)
