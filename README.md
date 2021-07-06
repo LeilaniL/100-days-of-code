@@ -8,12 +8,15 @@
 * [Resources](resources.md)
 
 ### Project Ideas
-- [ ] Finish Recurse Center project for pair programming test
+- [x] Finish Recurse Center project for pair programming test
+- [ ] Change move speed of character for RC project + make sure enemies don't move below their row
+- [ ] Go thru Mozilla tutorial on Canvas game development
+- [ ] Learn React Context better
 - [ ] Build React/Redux app from _Learning React_?
 - [ ] Create a Node project (simple server? LinkedIn Learning course?)
 - [ ] Build Vue/Supabase project inspired by FreeCodeCamp demo
 - [ ] Build Svelte project inspired by FreeCodeCamp demo
-- [ ] Finish frontendmentor.io card challenge
+- [ ] Finish frontendmentor.io card challenge -- get colored transparency to work
 - [ ] Create portfolio
 - [ ] Finish authentication for Okta blog project
 - [ ] Finish for-loop demo animation
@@ -21,6 +24,8 @@
 - [ ] Try out Solidity and build DAPP
 - [ ] Get back into Leetcode practice
 - [ ] Build demos related to blog
+- [ ] 30 Days of Vanilla JS
+- [ ] Check for weekly Codepen challenge
 
 <details>
 <summary>
