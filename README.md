@@ -26,6 +26,8 @@
 - [ ] Build demos related to blog
 - [ ] 30 Days of Vanilla JS
 - [ ] Check for weekly Codepen challenge
+- [ ] Complete a React Native (or Xamarin?) project
+- [ ] Learn Python
 
 <details>
 <summary>
