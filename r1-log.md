@@ -24,3 +24,12 @@ Used CSS Grid for menu layout challenge: [https://github.com/LeilaniL/grid-pract
 
 ### R1D7
 Basically skipped today, too indecisive on what to work on. Updating to-do list to have clearer goals.
+
+### R1D8
+Worked on a [timer app](https://github.com/LeilaniL/react-tdd-pomodoro-timer) to practice TDD with React + Jest. Toptal tutorial: [https://www.toptal.com/react/tdd-react-user-stories-to-development](https://www.toptal.com/react/tdd-react-user-stories-to-development)
+
+### R1D9
+Reviewed [space invaders game](https://github.com/LeilaniL/space-invaders) for Recurse Center pair programming interview. 
+
+### R1D10
+Had pair programming interview discussing space invaders, code readability, etc.
